@@ -3,7 +3,7 @@
     alt="">
 
 <h2>The Quiz</h2>
-<p><a href="https://uxhawk.github.io/gw-hmwk-04-js-quiz/">Start quiz</a></p>
+<p><a href="https://uxhawk.github.io/04-js-quiz/">Start quiz</a></p>
 <p>This quiz demonstrates DOM manipulation and dynamic styling of HTML/CSS with Javascript. Bootstrap components like <a
         href="https://getbootstrap.com/docs/4.0/components/modal/">Modals</a>, <a
         href="https://getbootstrap.com/docs/4.0/components/card/">Cards</a>, <a
